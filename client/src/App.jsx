@@ -1,5 +1,5 @@
 import React from "react";
-import NavComponent from "./shared_components/NavComponent.jsx";
+import NavComponent from "./shared_components/nav/NavComponent.jsx";
 import EpicBuilder from "./components/EpicBuilder";
 import FooterComponent from "./shared_components/FooterComponent";
 
