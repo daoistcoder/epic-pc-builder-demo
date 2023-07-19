@@ -4,7 +4,7 @@ export default function Prebuilt() {
   return (
     <div
       style={{
-        width: '80%',
+        width: '40%',
         height: '95%',
         backgroundColor: 'rgb(39, 39, 37) ',
       }}
