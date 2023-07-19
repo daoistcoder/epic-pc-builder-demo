@@ -2,6 +2,14 @@ import React from 'react'
 
 export default function Prebuilt() {
   return (
-    <div>Prebuilt</div>
+    <div
+      style={{
+        width: '80%',
+        height: '95%',
+        backgroundColor: 'rgb(39, 39, 37) ',
+      }}
+    >
+      Prebuilt
+    </div>
   )
 }
