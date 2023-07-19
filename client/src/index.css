@@ -50,7 +50,11 @@ body {
 
 .navMiddle input{
   margin-left: 5rem;
-  font-size: ;
+  padding-left: 1rem;
+  font-size: large;
+  width: 25%;
+  height: 1.5rem;
+  border-radius: 10px;
 }
 
 .navBottom {
