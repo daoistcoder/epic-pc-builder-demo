@@ -9,7 +9,7 @@ export default function BuilderLeft() {
         display: 'flex',
         justifyContent: 'space-evenly',
         alignItems: 'center',
-        backgroundColor: 'rgb(29, 29, 27)',
+        backgroundColor: 'rgb(29, 29, 25)',
         width: '65%',
          }}>
       <Prebuilt />
