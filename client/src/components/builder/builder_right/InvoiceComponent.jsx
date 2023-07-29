@@ -6,7 +6,7 @@ export default function InvoiceComponent() {
       style={{
         width: '80%',
         height: '95%',
-        backgroundColor: 'rgb(29, 29, 27)',
+        backgroundColor: 'rgb(29, 29, 25)',
       }}
     >
       InvoiceComponent
